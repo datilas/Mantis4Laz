@@ -126,7 +126,7 @@ End;
 
 Function TMantis4Laz.GetUrlBase: String;
 Begin
-  If FUrlBase[Length( FUrlBase)] = '/' Then
+  While FUrlBase[Length(FUrlBase)] = '/' Do
     SetLength(FUrlBase, (Length(FUrlBase) - 1));
 
   Result := FUrlBase;
