@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Release"/>
+    <Units>
+      <Unit>
+        <Filename Value="demo.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="5"/>
+        <CursorPos X="59" Y="24"/>
+        <UsageCount Value="35"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="30"/>
+        <CursorPos X="39" Y="42"/>
+        <UsageCount Value="35"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\src\untIssues.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="543"/>
+        <CursorPos X="17" Y="119"/>
+        <UsageCount Value="35"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpcsrc\rtl\inc\objpash.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="194"/>
+        <CursorPos X="25" Y="206"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpcsrc\rtl\inc\objpas.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="320"/>
+        <CursorPos X="9" Y="325"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\src\untMantis4Laz.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="113"/>
+        <CursorPos X="47" Y="130"/>
+        <UsageCount Value="32"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\comp\synalist\synautil.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="328"/>
+        <CursorPos X="27" Y="340"/>
+        <UsageCount Value="12"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="..\src\untMantis4Laz.pas"/>
+        <Caret Line="51" Column="20" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="120" Column="26" TopLine="109"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\untMantis4Laz.pas"/>
+        <Caret Line="133" Column="20" TopLine="116"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\untMantis4Laz.pas"/>
+        <Caret Line="27" Column="18" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\untMantis4Laz.pas"/>
+        <Caret Line="75" Column="18" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\untMantis4Laz.pas"/>
+        <Caret Line="48" Column="19" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="119" Column="88" TopLine="109"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\untMantis4Laz.pas"/>
+        <Caret Line="75" Column="4" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\untMantis4Laz.pas"/>
+        <Caret Line="115" Column="16" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\untMantis4Laz.pas"/>
+        <Caret Line="116" Column="30" TopLine="104"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\untMantis4Laz.pas"/>
+        <Caret Line="32" Column="53" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\untMantis4Laz.pas"/>
+        <Caret Line="111" Column="5" TopLine="101"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\untMantis4Laz.pas"/>
+        <Caret Line="113" Column="11" TopLine="101"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\untMantis4Laz.pas"/>
+        <Caret Line="58" Column="64" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\untMantis4Laz.pas"/>
+        <Caret Line="111" Column="26" TopLine="101"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="117" TopLine="105"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="119" Column="44" TopLine="111"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="124" Column="42" TopLine="111"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\untMantis4Laz.pas"/>
+        <Caret Line="107" Column="26" TopLine="105"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="51" Column="5" TopLine="102"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\untMantis4Laz.pas"/>
+        <Caret Line="53" Column="15" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\untMantis4Laz.pas"/>
+        <Caret Line="141" Column="3" TopLine="124"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\untMantis4Laz.pas"/>
+        <Caret Line="48" Column="15" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\untMantis4Laz.pas"/>
+        <Caret Line="111" Column="10" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\untMantis4Laz.pas"/>
+        <Caret Line="116" Column="19" TopLine="110"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\untMantis4Laz.pas"/>
+        <Caret Line="57" Column="55" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\untMantis4Laz.pas"/>
+        <Caret Line="128" Column="3" TopLine="125"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\untMantis4Laz.pas"/>
+        <Caret Line="50" Column="21" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\untIssues.pas"/>
+        <Caret Line="119" Column="17" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\untIssues.pas"/>
+        <Caret Line="268" Column="3" TopLine="266"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

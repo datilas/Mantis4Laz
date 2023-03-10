@@ -1,0 +1,31 @@
+object Form1: TForm1
+  Left = 279
+  Height = 355
+  Top = 250
+  Width = 449
+  Caption = 'Form1'
+  ClientHeight = 355
+  ClientWidth = 449
+  object Button1: TButton
+    Left = 8
+    Height = 25
+    Top = 8
+    Width = 75
+    Caption = 'Button1'
+    OnClick = Button1Click
+    TabOrder = 0
+  end
+  object Memo1: TMemo
+    Left = 0
+    Height = 187
+    Top = 168
+    Width = 449
+    Align = alBottom
+    Lines.Strings = (
+      'Memo1'
+    )
+    ScrollBars = ssAutoBoth
+    TabOrder = 1
+    WordWrap = False
+  end
+end
