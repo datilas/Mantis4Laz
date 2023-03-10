@@ -7,20 +7,21 @@ object Form1: TForm1
   ClientHeight = 355
   ClientWidth = 449
   object Button1: TButton
-    Left = 8
+    Left = 0
     Height = 25
-    Top = 8
-    Width = 75
-    Caption = 'Button1'
+    Top = 0
+    Width = 449
+    Align = alTop
+    Caption = 'Criar Issue'
     OnClick = Button1Click
     TabOrder = 0
   end
   object Memo1: TMemo
     Left = 0
-    Height = 187
-    Top = 168
+    Height = 330
+    Top = 25
     Width = 449
-    Align = alBottom
+    Align = alClient
     Lines.Strings = (
       'Memo1'
     )
